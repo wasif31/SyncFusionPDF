@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SyncFusionPDF/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Pdf.Net.Core": "23.2.5"
+        },
+        "runtime": {
+          "SyncFusionPDF.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "Syncfusion.Compression.Net.Core/23.2.5": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "23.2.5.0",
+            "fileVersion": "23.2.5.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/23.2.5": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "23.2.5.0",
+            "fileVersion": "23.2.5.0"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Net.Core/23.2.5": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "23.2.5",
+          "Syncfusion.Licensing": "23.2.5",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Pdf.Portable.dll": {
+            "assemblyVersion": "23.2.5.0",
+            "fileVersion": "23.2.5.0"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyncFusionPDF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Net.Core/23.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DDM4JeA1g8AEO29rM3dzgWUc/p+cQBJyx+LIGu79Trfq+LEr6yjw+CCGt1yny2LDwt8uNm2Lap8xONZb9rrwCA==",
+      "path": "syncfusion.compression.net.core/23.2.5",
+      "hashPath": "syncfusion.compression.net.core.23.2.5.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/23.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0qOGTtIcqylHE+2Sen09u6+02ny51NK+auhilBtZ3iGZh/26sN+uE7xviYa66qcXjRRZY6KeXf8HVXQZRr4KrA==",
+      "path": "syncfusion.licensing/23.2.5",
+      "hashPath": "syncfusion.licensing.23.2.5.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Net.Core/23.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M3rViWC0EVvrQ7Xgr7GaHFgBQu+4+zg/VWj+W5arvll1XHlnSL2DtoWEeoGgfQsXjAj7CRmcZVWhm4GdIlR+yw==",
+      "path": "syncfusion.pdf.net.core/23.2.5",
+      "hashPath": "syncfusion.pdf.net.core.23.2.5.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    }
+  }
+}

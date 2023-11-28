@@ -1,0 +1,24 @@
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Resources\1.png
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Resources\DigDrilProg.png
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Resources\image 11.png
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Resources\image 12.png
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\SyncFusionPDF.exe
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Resources\image15.png
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\SyncFusionPDF.deps.json
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\SyncFusionPDF.runtimeconfig.json
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\SyncFusionPDF.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\SyncFusionPDF.pdb
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.AssemblyInfoInputs.cache
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.AssemblyInfo.cs
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.csproj.CoreCompileInputs.cache
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\refint\SyncFusionPDF.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.pdb
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.genruntimeconfig.cache
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\ref\SyncFusionPDF.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Syncfusion.Compression.Portable.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\bin\Debug\net6.0\Syncfusion.Pdf.Portable.dll
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.csproj.AssemblyReference.cache
+D:\workstation\SyncFusionPDF\SyncFusionPDF\obj\Debug\net6.0\SyncFusionPDF.csproj.CopyComplete
